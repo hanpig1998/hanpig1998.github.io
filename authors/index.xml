@@ -5,28 +5,12 @@
     <link>https://hanpig1998.github.io/authors/</link>
       <atom:link href="https://hanpig1998.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://hanpig1998.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://hanpig1998.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>Frank Pennekamp</title>
-      <link>https://hanpig1998.github.io/authors/frank-pennekamp/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanpig1998.github.io/authors/frank-pennekamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicolas Schtickzelle</title>
-      <link>https://hanpig1998.github.io/authors/nicolas-schtickzelle/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanpig1998.github.io/authors/nicolas-schtickzelle/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -39,6 +23,38 @@
 
 &lt;p&gt;In Summer, 2019, I was a summer intern at University of Illinois at Urbana-Champaign, advised by Professor &lt;a href=&#34;https://nanjiang.cs.illinois.edu/&#34; target=&#34;_blank&#34;&gt;Nan Jiang&lt;/a&gt;. In Tsinghua University, I am an undergraduate researcher in &lt;a href=&#34;http://ivg.au.tsinghua.edu.cn/people.php&#34; target=&#34;_blank&#34;&gt;IVG Lab&lt;/a&gt;, advised by Professor &lt;a href=&#34;http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/&#34; target=&#34;_blank&#34;&gt;Jiwen Lu&lt;/a&gt;. Currently I am going on with my undergraduate thesis, advised by Professor &lt;a href=&#34;http://www.gaohuang.net/&#34; target=&#34;_blank&#34;&gt;Gao Huang&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jie zhou</title>
+      <link>https://hanpig1998.github.io/authors/jie-zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hanpig1998.github.io/authors/jie-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiwen Lu</title>
+      <link>https://hanpig1998.github.io/authors/jiwen-lu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hanpig1998.github.io/authors/jiwen-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaiqian Han</title>
+      <link>https://hanpig1998.github.io/authors/kaiqian-han/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hanpig1998.github.io/authors/kaiqian-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiangLiang Reng</title>
+      <link>https://hanpig1998.github.io/authors/liangliang-reng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hanpig1998.github.io/authors/liangliang-reng/</guid>
+      <description></description>
     </item>
     
   </channel>
